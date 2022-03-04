@@ -16,7 +16,7 @@ export class TemaComponent implements OnInit {
 
   constructor(
     private router: Router,
-    private temaService: TemaService
+    private temaService: TemaService 
   ) { }
 
   ngOnInit(){
